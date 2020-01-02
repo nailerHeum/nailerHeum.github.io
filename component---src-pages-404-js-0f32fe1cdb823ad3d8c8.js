@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{w2l6:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),c=n("Wbzz"),r=n("Bl7J"),u=n("hIod");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(u.a,{title:"404"}),l.a.createElement("h1",null,"404"),l.a.createElement("p",null,"여긴 아무것도 없습니다!"),l.a.createElement("p",null,l.a.createElement(c.a,{to:"/"},"메인으로 돌아가요.")))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-0f32fe1cdb823ad3d8c8.js.map

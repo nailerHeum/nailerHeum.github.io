@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"Cuy+":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),c=a("Bl7J"),o=a("hIod");t.default=function(){return l.a.createElement(c.a,null,l.a.createElement(o.a,{title:"Contact"}),l.a.createElement("h1",null,"Contact"),l.a.createElement("p",null,"How to Contact >> ",l.a.createElement("a",{href:"mailto:kingman330@gmail.com"},"Mail me"),"!"))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-aaa5038282d67807a791.js.map

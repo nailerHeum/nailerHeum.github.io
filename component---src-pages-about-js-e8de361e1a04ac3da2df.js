@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"3XHS":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),c=n("Wbzz"),o=n("Bl7J"),r=n("hIod");t.default=function(){return l.a.createElement(o.a,null,l.a.createElement(r.a,{title:"About"}),l.a.createElement("h1",null,"최성흠"),l.a.createElement("p",null,"연락하고 싶다면? ",l.a.createElement(c.a,{to:"/contact"},"여기로!!")))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-e8de361e1a04ac3da2df.js.map
