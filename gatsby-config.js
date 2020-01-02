@@ -6,5 +6,36 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [`gatsby-plugin-sass`],
+  siteMetadata: {
+    title: "Nailer's blog",
+    author: "SeongHeum CHOI",
+    description: "최성흠의 블로그입니다."
+  },
+  plugins: [
+    "gatsby-plugin-react-helmet",
+    `gatsby-plugin-sass`,
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "src",
+        path: `${__dirname}/src/`,
+      },
+    },
+    "gatsby-plugin-sharp",
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          "gatsby-remark-relative-images",
+          {
+            resolve: "gatsby-remark-images",
+            opsions: {
+              maxWidth: 750,
+              linkImagesToOriginal: false,
+            },
+          },
+        ],
+      },
+    },
+  ],
 }
