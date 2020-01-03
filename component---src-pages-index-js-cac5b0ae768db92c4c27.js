@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{RXBc:function(e,l,n){"use strict";n.r(l);var t=n("q1tI"),a=n.n(t),c=n("Bl7J"),r=n("hIod");l.default=function(){return a.a.createElement("div",null,a.a.createElement(c.a,null,a.a.createElement(r.a,{title:"Home"}),a.a.createElement("h1",null,"Hello"),a.a.createElement("h2",null,"I'm Nailer, the Backend-developer.")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-cac5b0ae768db92c4c27.js.map
