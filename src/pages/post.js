@@ -39,9 +39,9 @@ const PostPage = () => {
           return (
             <li key={edge.node.frontmatter.title} className={postStyles.post}>
               <Link to={`/post/${edge.node.fields.slug}`}>
-                <h2>{edge.node.frontmatter.title}</h2>
+                <h3>{edge.node.frontmatter.title}</h3>
                 <p>{edge.node.frontmatter.date}</p>
-                <p>{edge.node.excerpt}... more</p>
+                <p>{edge.node.excerpt + "more"}</p>
               </Link>
             </li>
           )
