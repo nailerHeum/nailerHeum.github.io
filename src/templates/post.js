@@ -24,7 +24,7 @@ const Post = props => {
       <Head title={props.data.markdownRemark.frontmatter.title} />
       <h2>{props.data.markdownRemark.frontmatter.title}</h2>
       <p className={postStyles.date}>{props.data.markdownRemark.frontmatter.date}</p>
-      <div
+      <div className={postStyles.markdown}
         dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
       ></div>
     </Layout>

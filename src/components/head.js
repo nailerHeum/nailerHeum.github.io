@@ -18,7 +18,12 @@ const Head = ({ title }) => {
       {
         "rel": "icon",
         "type": "image/png",
-        "href": "favicon.png"
+        "href": "favicon.png",
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "href": "/rss.xml",
       }
     ]}
   />);
