@@ -3,7 +3,7 @@ title: "Leetcode move zeros(Python)"
 date: "2020-01-03"
 ---
 
-
+---
 
 [문제 링크](https://leetcode.com/problems/move-zeroes/)
 
