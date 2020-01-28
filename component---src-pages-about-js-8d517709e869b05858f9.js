@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"3XHS":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),u=(n("Wbzz"),n("Bl7J")),r=n("hIod");t.default=function(){return l.a.createElement(u.a,null,l.a.createElement(r.a,{title:"About"}),l.a.createElement("h1",null,"최성흠"),l.a.createElement("p",null,l.a.createElement("b",null,"Github"),": ",l.a.createElement("a",{href:"https://github.com/nailerHeum"},"https://github.com/nailerHeum")))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-8d517709e869b05858f9.js.map

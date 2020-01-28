@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"Cuy+":function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),l=n.n(t),c=n("Bl7J"),m=n("hIod"),o=n("ZPPm"),i=n.n(o);a.default=function(){return l.a.createElement(c.a,null,l.a.createElement(m.a,{title:"Contact"}),l.a.createElement("h1",null,"Contact"),l.a.createElement("div",{className:i.a.content},l.a.createElement("p",null,l.a.createElement("a",{href:"mailto:kingman330@gmail.com"},"kingman330@gmail.com"))))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-58bc23dd655049146c04.js.map
