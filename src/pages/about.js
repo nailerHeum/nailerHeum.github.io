@@ -9,7 +9,7 @@ const AboutPage = () => {
     <Layout>
       <Head title="About" />
       <h1>최성흠</h1>
-      <p>연락하고 싶다면? <Link to="/contact">여기로!!</Link></p>
+      <p><b>Github</b>: <a href="https://github.com/nailerHeum">https://github.com/nailerHeum</a></p>
     </Layout>
   )
 }
