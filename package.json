@@ -15,26 +15,26 @@
     "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "dependencies": {
-    "gatsby": "^2.18.12",
-    "gatsby-plugin-google-analytics": "^2.1.31",
-    "gatsby-plugin-react-helmet": "^3.1.18",
-    "gatsby-plugin-sass": "^2.1.26",
-    "gatsby-plugin-sharp": "^2.3.10",
-    "gatsby-remark-images": "^3.1.39",
-    "gatsby-remark-prismjs": "^3.3.28",
-    "gatsby-remark-relative-images": "^0.2.3",
-    "gatsby-source-filesystem": "^2.1.43",
-    "gatsby-transformer-remark": "^2.6.45",
-    "gh-pages": "^2.1.1",
-    "node-sass": "^4.13.0",
-    "prismjs": "^1.17.1",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-helmet": "^5.2.1"
+    "gatsby": "^4.5.0",
+    "gatsby-plugin-google-analytics": "^4.5.0",
+    "gatsby-plugin-react-helmet": "^5.5.0",
+    "gatsby-plugin-sass": "^5.5.0",
+    "gatsby-plugin-sharp": "^4.5.0",
+    "gatsby-remark-images": "^6.5.0",
+    "gatsby-remark-prismjs": "^6.5.0",
+    "gatsby-remark-relative-images": "^2.0.2",
+    "gatsby-source-filesystem": "^4.5.0",
+    "gatsby-transformer-remark": "^5.5.0",
+    "gh-pages": "^3.2.3",
+    "node-sass": "^7.0.1",
+    "prismjs": "^1.26.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "env-cmd": "^10.0.1",
-    "prettier": "^1.19.1"
+    "env-cmd": "^10.1.0",
+    "prettier": "^2.5.1"
   },
   "repository": {
     "type": "git",
