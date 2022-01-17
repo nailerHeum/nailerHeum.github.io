@@ -3,7 +3,7 @@ import React from "react";
 import Layout from "../components/layout";
 import Head from "../components/head"
 
-import ContactStyle from "./contact.module.scss";
+import * as ContactStyle from "./contact.module.scss";
 
 const ContactPage = () => {
   return (

@@ -4,7 +4,7 @@ import { graphql } from "gatsby";
 import Layout from "../components/layout";
 import Head from "../components/head";
 
-import postStyles from "./post.module.scss";
+import * as postStyles from "./post.module.scss";
 
 export const query = graphql`
   query($slug: String!) {

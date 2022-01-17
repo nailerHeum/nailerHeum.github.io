@@ -4,7 +4,7 @@ import { Link, useStaticQuery, graphql } from "gatsby";
 import Layout from "../components/layout";
 import Head from "../components/head"
 
-import postStyles from "./post.module.scss";
+import * as postStyles from "./post.module.scss";
 
 const PostPage = () => {
   const data = useStaticQuery(graphql`
